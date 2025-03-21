@@ -219,5 +219,5 @@
         signup,
         verifyOtp,
         loadOtp,
-        
+        shopload
     };
