@@ -8,7 +8,7 @@ router.get("/pageNotFound", userController.pageNotFound);
 router.get("/", userController.loadHomePage);
 
 router.get("/signup", userController.loadSignup);
-router.get("/shop", userController.shopload);
+
 router.post("/signup",userController.signup)
 
 router.get("/verifyOtp",userController.loadOtp)
